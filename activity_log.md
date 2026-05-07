@@ -7,3 +7,4 @@
 - [2026-03-07T13:45:20Z] docs: improve inline documentation
 - [2026-05-07T08:13:22Z] style: apply consistent code formatting
 - [2026-05-07T09:08:13Z] test: add unit tests for core module
+- [2026-05-07T19:40:36Z] refactor: simplify conditional logic
